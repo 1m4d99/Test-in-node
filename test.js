@@ -21,10 +21,8 @@ const userTwo = {
     admin : false 
 }
 
-const users = [userOne,userTwo, "hello test"]
-
-console.log(users[0])
+// ajouter un element sur un tableau
+userTwo.hobbies.push("tennis")
 
 // array 
-
-const.users = 
+const users = [userOne, userTwo]
